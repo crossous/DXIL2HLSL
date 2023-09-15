@@ -1,0 +1,3 @@
+[submodule "dxil-spirv"]
+	path = dxil-spirv
+	url = https://github.com/HansKristian-Work/dxil-spirv.git
